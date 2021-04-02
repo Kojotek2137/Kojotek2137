@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kojotek2137
+- 👀 I’m interested in programming and pentesting
+- 🌱 I’m currently learning Node.js and Python
+- 📫 You can reach me via my email
